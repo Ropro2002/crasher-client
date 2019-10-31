@@ -1,7 +1,9 @@
 # crasher-client
 Just drop it into your mods folder to load it as a forge mod.
 
-Don't use it in queue it will immediatly kick you! Wait till you are in the server.
+You can have it enabled in queue but it wont do anything till you are in the real server!
 
 Usage:
-*crash to enable it. When the chat stop moving/lagging super hard *crash again to disable cus it will insta kick you when in queue!
+*crash to enable it. When you get kicked alot of people go with you!
+
+If you really want to fuck everything just enablde *crash and autoreconnect with as many accounts as you can!
