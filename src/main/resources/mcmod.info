@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crashclient",
+  "name": "Crash Client",
+  "description": "Client that crashes shitt",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Robeart"],
+  "credits": "Hause for prio banning me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
